@@ -5,5 +5,5 @@ func void Ninja_GothicProfessionalNovice_Init() {
     MEM_InitAll();
 
     // WRITE YOUR INITIALIZATIONS HERE
-    Patch_GNP_ChangeNoviceName();
+    Patch_GothicProfessionalNovice_ChangeNoviceName();
 };
